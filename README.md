@@ -10,7 +10,7 @@ Certainly! Here's a template for organizing resources by category:
 - [CSS Grid](https://cssgrid.io/)
 - [CSS-Tricks](https://css-tricks.com/)
   
-![FLEX and GRID Cheatsheet](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0f8063ea-89cc-487a-a663-967365fe8b9f/00.jpg)
+ 
 
 ## JavaScript
 
@@ -83,6 +83,5 @@ Certainly! Here's a template for organizing resources by category:
 - [Serif Fonts | Creative Market](https://creativemarket.com/fonts/serif)
 - [Color Contrast Ratio Calculator & Checker](https://contrastchecker.online/)
 - [Set Up Your Account | Font Awesome](https://fontawesome.com/kits)
-
-Feel free to adjust the categories and add or remove resources as needed!
+ 
 
