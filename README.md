@@ -83,5 +83,6 @@ Certainly! Here's a template for organizing resources by category:
 - [Serif Fonts | Creative Market](https://creativemarket.com/fonts/serif)
 - [Color Contrast Ratio Calculator & Checker](https://contrastchecker.online/)
 - [Set Up Your Account | Font Awesome](https://fontawesome.com/kits)
+- [Nextjs template free starter](https://statichunt.com/)
  
 
