@@ -85,5 +85,6 @@ Certainly! Here's a template for organizing resources by category:
 - [Set Up Your Account | Font Awesome](https://fontawesome.com/kits)
 - [Nextjs template free starter](https://statichunt.com/)
 - [Nextjs template   ](https://nextjstemplates.com/)
+- [Download 3d Models  ](https://sketchfab.com/search?features=downloadable&type=models)
  
 
