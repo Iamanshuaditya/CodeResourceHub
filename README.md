@@ -1,5 +1,3 @@
-Certainly! Here's a template for organizing resources by category:
-
 # Resources
 
 ## CSS
@@ -9,8 +7,6 @@ Certainly! Here's a template for organizing resources by category:
 - [Tailwind UI Component Library, Kit and Templates | TailGrids](https://tailgrids.com/)
 - [CSS Grid](https://cssgrid.io/)
 - [CSS-Tricks](https://css-tricks.com/)
-  
- 
 
 ## JavaScript
 
@@ -41,6 +37,10 @@ Certainly! Here's a template for organizing resources by category:
 - [Uizard | App, Web, & UI Design Made Easy | Powered By AI](https://uizard.io/)
 - [100+ Shades of Red Color Palettes — CSS Gradient](https://cssgradient.io/shades-of-red/)
 
+## UI Library
+
+- [MBZ Chroma UI Library](https://mbz-chroma.vercel.app/)
+
 ## Illustration
 
 - [300+ free design resources](https://interfacer.xyz/)
@@ -65,8 +65,6 @@ Certainly! Here's a template for organizing resources by category:
 - [Pixlr: Free Online Photo Editor, AI image Generator & Design tool](https://pixlr.com/)
 - [iPiccy Photo Editor is Awesome!](https://ipiccy.com/)
 
-[1000+ Web Dev Resources, Guides, and Tools](https://www.notion.so/1000-Web-Dev-Resources-Guides-and-Tools-537fa862e0e44f998d483321cccc9559?pvs=21)
-
 ## Additional Resources
 
 - [Dribbble - Discover the World’s Top Designers & Creative Professionals](https://dribbble.com/)
@@ -74,18 +72,8 @@ Certainly! Here's a template for organizing resources by category:
 - [Flickr](https://flickr.com/)
 - [DeliciousAI - Transform Selfies & Pets Photos into AI Art](https://www.delicious.com/)
 - [Sans-Serif — Free fonts](https://www.fontpair.co/category/sansserif)
-- [How to Write an Essay About Happiness: Smart Guide | hellohappy.org](https://hellohappy.org/)
 - [Beautiful web type combinations — maybe the best typefaces combinations from the Google web fonts directory](https://bueltge.de/free-web-font-combinations/)
-- [Buy fonts from the world’s favorite typography blog, I Love Typography (ILT)](https://ilovetypography.com/2007/09/19/15-excellent-examples-of-web-typography/)
+- [Buy fonts from the world’s favorite typography blog, I Love Typography (ILT)](https://ilovetypography.com/)
 - [Google Web Fonts Typographic Project](https://femmebot.github.io/google-type/)
-- [Creating distraction-free reading experiences — Adrian Zumbrunnen](https://azumbrunnen.me/blog/creating-distraction-free-reading-experiences/)
-- [Gapsy Creative Design Studio | UI UX Design Agency](https://gapsystudio.com/)
-- [Serif Fonts | Creative Market](https://creativemarket.com/fonts/serif)
-- [Color Contrast Ratio Calculator & Checker](https://contrastchecker.online/)
-- [Set Up Your Account | Font Awesome](https://fontawesome.com/kits)
-- [Nextjs template free starter](https://statichunt.com/)
-- [Nextjs template   ](https://nextjstemplates.com/)
-- [Download 3d Models  ](https://sketchfab.com/search?features=downloadable&type=models)
-- [3d Models Images Download](https://www.cgtrader.com/)
  
 
